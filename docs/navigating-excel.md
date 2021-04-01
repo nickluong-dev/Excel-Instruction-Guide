@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Introduction
+title: Navigating Excel
 nav_order: 2
-permalink: /
 ---
 # Introduction
 
