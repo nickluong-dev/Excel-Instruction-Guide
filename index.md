@@ -15,6 +15,7 @@ This document is to help you get started with Microscoft Excel. The guide will w
 
 ## Table of Contents
 ---
+{: .no_toc .text-delta }
 * TOC
 {:toc} 
 
@@ -63,15 +64,17 @@ Since 1993, it has overtaken as the leading software to use, both continually ex
 ## Why Learn Excel
 ---
 
-Not only can Excel be used to improve your quality of life through automating otherwise mundane tasks, knowledge of the software can be a valuable asset to employers. 
+Excel does more than just organize your data for you. It can process it and form it into graphs, automating otherwise time-consuming and mundane tasks.
+
+Not only can Excel be used to improve your quality of, knowledge of the software can be a valuable asset to employers. 
 
 ## Typographical Conventions
 ---
 
 | Convention           | Typeface    | ?Example? |
 |:---------------------|:------------|:----------|
-| (Clickable Options)  | <b>Bold</b> | nice      |
-| Spreadsheet formulas | ```Light``` | nice      |
+| (Clickable Options)  | <b>Bold</b> | Under the <b>view</b> tab, click on <b>zoom</b> to... |
+| Spreadsheet formulas | ```Light``` |  |
 
 Note: Indicates sections to take note of. <br>
 Caution: Indicates sections take care with.
