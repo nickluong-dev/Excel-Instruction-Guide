@@ -3,31 +3,26 @@ layout: default
 title: Navigating Excel
 nav_order: 2
 ---
-# Introduction
+# Navigating Excel
 
+This guide expects users to have some experience with Microsoft office already. If you have worked with Word or Powerpoint, then Excel's GUI will not be too different. 
 
-Excel is a powerful spreadsheet software with graphing tools, pivot tables, macro programming, and built-in functions. Excel is commonly used for accounting, taxes, data visualization, dashboards, and basic calculations.
-
-This document is to help you get started with Microscoft Excel. The guide will walkthrough the basics but will also cover some advanced but practical tasks.
+This section will cover some of the basics like making insert a chart. We will explore some basic functions that excel offers and create your first table.
 
 ## Table of Contents
+---
 * TOC
 {:toc} 
 
-## Target Audience - Is This For You
+## Before We Start - GUI
+---
 
-This guide is targeted towards users with minima knowledge of Microsoft Excel. For example, you have used the program to make basic tables for school assignments.
+Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and it's important buttons.
 
-The goal of this guide is to familiarize yourself with more advanced features such as Functions and Pivot Tables. When you have finished reading the guide, you will gain knowledge of:
-
-* Essential functions such as SUM
-* Formulas such as calculating values in a range of cells
-* Creating charts to help visualize data
-* Utilizing pivot tables to analyze worksheet data
-* Running macros to automate repetitive tasks
-* Filters to narrow down data in a worksheet
+Here
 
 ## Software Version
+---
 
 Microsoft 365 Apps for enterprise Version 2102 on Windows 10.
 Previous versions may have minor differences.
@@ -35,6 +30,7 @@ Previous versions may have minor differences.
 You can purchase and download Microsoft Excel [here](https://www.microsoft.com/en-ca/microsoft-365/excel).
 
 ## Prerequisites
+---
 
 Have the following ready before beginning the instructions in this document:
 
@@ -43,17 +39,18 @@ Have the following ready before beginning the instructions in this document:
 * (A general understanding of basic computer tasks)
 
 ## Brief History
+---
 
 Microsoft first developed Excel in 1987 as a response to Lotus 1-2-3 as the industry standard for spreadsheets to organize, analyze, and store data in tabular form. 
 
 Since 1993, it has overtaken as the leading software to use, continually expanding on existing features and adding more from version to version. 
 
----
-
 ## Typographical Conventions
+---
 
 Spreadsheet formulas ```Light```
 Clickable options (bold)
 
 Note:
 Caution:
+
