@@ -13,7 +13,6 @@ Excel is a powerful spreadsheet software with graphing tools, pivot tables, macr
 This document is to help you get started with Microscoft Excel. The guide will walkthrough the basics but will also cover some advanced but practical tasks.
 
 ## Table of Contents
-{: .no_toc .text-delta }
 * TOC
 {:toc} 
 
@@ -42,10 +41,11 @@ You can purchase and download Microsolf Excel [here](https://www.microsoft.com/e
 
 ## Prerequisites
 
-Please have the following ready before starting the instructions in this document:
+Have the following ready before beginning the instructions in this document:
 
 * A computer with a keyboard and mouse
 * (A recent version of?) Microsoft Excel installed on your computer
+* (A general understanding of basic computer tasks)
 
 ## Brief History
 
@@ -53,3 +53,4 @@ Microsoft first developed Excel in 1987 as a response to Lotus 1-2-3 as the indu
 
 ---
 
+## Typographical Conventions
