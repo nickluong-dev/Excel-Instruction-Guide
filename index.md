@@ -6,20 +6,19 @@ description: "This instruction guide will walk you through some of the most comm
 permalink: /
 ---
 # Introduction
-
+{: .no_toc }
 
 Excel is a powerful spreadsheet software with graphing tools, pivot tables, macro programming, and built-in functions. Excel is commonly used for accounting, taxes, data visualization, dashboards, and basic calculations.
 
 This document is to help you get started with Microscoft Excel. The guide will walkthrough the basics but will also cover some advanced but practical tasks.
 
-
 ## Table of Contents
----
 {: .no_toc .text-delta }
+
+---
+
 * TOC
-{:toc} 
-
-
+{:toc}
 
 ## Target Audience - Is This For You
 ---
@@ -66,7 +65,7 @@ Since 1993, it has overtaken as the leading software to use, both continually ex
 
 Excel does more than just organize your data for you. It can process it and form it into graphs, automating otherwise time-consuming and mundane tasks.
 
-Not only can Excel be used to improve your quality of, knowledge of the software can be a valuable asset to employers. 
+Not only can Excel be used to improve your quality of, knowledge of the software can be a valuable asset to employers as it implies a level of technological finesse and analytical skill. Although it may seem daunting, this guide will walk you through its basic functionalities step by step. 
 
 ## Typographical Conventions
 ---
@@ -74,7 +73,7 @@ Not only can Excel be used to improve your quality of, knowledge of the software
 | Convention           | Typeface    | ?Example? |
 |:---------------------|:------------|:----------|
 | (Clickable Options)  | <b>Bold</b> | Under the <b>view</b> tab, click on <b>zoom</b> to... |
-| Spreadsheet formulas | ```Light``` |  |
+| Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
-Note: Indicates sections to take note of. <br>
-Caution: Indicates sections take care with.
+![Note icon]() Note: Indicates sections to take note of. <br>
+![Caution icon]() Caution: Indicates sections take care with.
