@@ -20,7 +20,17 @@ This section will cover some of the basics like making insert a chart. We will e
 
 Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and it's important buttons.
 
-Here ![Caution icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/Excel-Toolbar.png?raw=true "Excel Toolbar")
+Here is Excel's toolbar. Currently we are in the <b> Home </b> tab. This is where can format our text and do some basic manipulation. 
+
+![Toolbar](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Excel-Toolbar.png?raw=true "Excel Toolbar")
+
+Notice the <b> Number </b> section of the toolbar. This is where you can format your data (eg. percentages, dollars, commas).
+
+![Numbers](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Numbers-Section.png?raw=true "Numbers Section")
+
+The <b>Cells</b> section allows you to add, delete, and format rows. For now, you will just be adding and deleting rows.
+
+![Cells](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Cells-Section.png?raw=true "Cells Section")
 
 ## Software Version
 ---
