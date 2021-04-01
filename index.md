@@ -16,7 +16,7 @@ This document is to help you get started with Microscoft Excel. The guide will w
 
 {: .no_toc .text-delta }
 * TOC
-{:toc}
+{:toc} 
 
 ## Target Audience - Is This For You
 
