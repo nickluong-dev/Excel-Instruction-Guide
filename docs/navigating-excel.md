@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Introduction
-nav_order: 1
-description: "This instruction guide will walk you through some of the most common and essential Excel functions."
+nav_order: 2
 permalink: /
 ---
 # Introduction
