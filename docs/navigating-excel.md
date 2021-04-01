@@ -11,6 +11,7 @@ This section will cover some of the basics like making insert a chart. We will e
 
 ## Table of Contents
 ---
+{: .no_toc .text-delta }
 * TOC
 {:toc} 
 
@@ -19,7 +20,7 @@ This section will cover some of the basics like making insert a chart. We will e
 
 Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and it's important buttons.
 
-Here
+Here ![Caution icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/Excel-Toolbar.png?raw=true "Excel Toolbar")
 
 ## Software Version
 ---
@@ -49,7 +50,7 @@ Since 1993, it has overtaken as the leading software to use, continually expandi
 ---
 
 Spreadsheet formulas ```Light```
-Clickable options (bold)
+Clickable options (bold
 
 Note:
 Caution:
