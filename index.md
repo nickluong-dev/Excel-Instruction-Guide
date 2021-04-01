@@ -54,7 +54,12 @@ Since 1993, it has overtaken as the leading software to use, continually expandi
 
 ## Typographical Conventions
 
-Spreadsheet formulas ```Light```
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| Spreadsheet formulas | ```Light```| nice  |
+
+Spreadsheet formulas 
 Clickable options (bold)
 
 Note:
