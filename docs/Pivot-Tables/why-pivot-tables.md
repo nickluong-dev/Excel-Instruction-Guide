@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Making a Table
+title: Why Use Pivot Tables?
 parent: Pivot Tables
-nav_order: 3
+nav_order: 1
 ---
 
 ## Why use pivot tables?
@@ -24,7 +24,7 @@ Doing all of these things without a pivot table in Excel is possible, but it's m
 
 But what are the practical uses for a pivot table? Consider this receipt from a pizza store:
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pizza-Receipt.png?raw=true" alt="Pizza Receipt" height=400px>
+![Pizza Receipt](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pizza-Receipt.png?raw=true "Pizza Receipt")
 
 A pizza store prints this receipt and logs the information. Hypothetically the owner could gather all of this data and perform some analysis on it. Let's tabularize some of this info:
 
