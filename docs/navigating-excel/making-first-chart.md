@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Your First Table and Chart
-nav_order: 2
+nav_order: 3
 parent: Navigating Excel
 ---
 
