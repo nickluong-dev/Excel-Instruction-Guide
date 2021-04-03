@@ -13,7 +13,4 @@ Pivot tables are considered *advanced* in excel, but this guide will get you sta
 
 ---
 
-## Table of Contents
-{: .no_toc .text-delta }
-
 {: .fs-6 .fw-300 }

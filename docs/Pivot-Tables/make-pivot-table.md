@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Making a Table
+title: Making a Pivot Chart
 parent: Pivot Tables
 nav_order: 3
 ---

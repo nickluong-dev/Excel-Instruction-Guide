@@ -2,7 +2,9 @@
 layout: default
 title: Navigating Excel
 nav_order: 2
+has_children: true
 ---
+
 # Navigating Excel
 {: .no_toc }
 
@@ -18,9 +20,9 @@ This section will cover some of the basics like making insert a chart. We will e
 * TOC
 {:toc}
 
-## Before We Start - GUI
-
 ---
+
+## Before We Start - GUI
 
 Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and it's important buttons.
 
@@ -44,9 +46,12 @@ Here is an overview of the Excel GUI with labels. You will get used to most of t
 
 ![Overview](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Excel-Screen-Overview.png?raw=true "Overview")
 
-## What Are Functions?
+For now, the main areas you will be using are the **Rows, Columns, Active Cell, Toolbar Ribbon.**
 
 ---
+
+## What Are Functions?
+
 A function in excel are predefined formulas that perform calculations in a specific order. This is very powerful as we don't have to implement everything manually and Excel has plenty of them for us! 
 
 As we go along, we will explain any functions used.
@@ -64,9 +69,9 @@ Below are some common functions.
 
 **Note:** This is not an exhaustive list. Refer to the official Microsoft list of built-in functions [here.](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)
 
-## Creating A Table and Charts
-
 ---
+
+## Creating A Table and Charts
 
 There are many applications for Excel like accounting and finance. This instruction set will help you create your first table and charts.
 
