@@ -10,10 +10,10 @@ This guide expects users to have some experience with Microsoft office already. 
 
 This section will cover some of the basics like making insert a chart. We will explore some basic functions that excel offers and create your first table.
 
+---
+
 ## Table of Contents
 {: .no_toc .text-delta }
-
----
 
 * TOC
 {:toc}
