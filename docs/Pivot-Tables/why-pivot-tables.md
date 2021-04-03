@@ -5,7 +5,7 @@ parent: Pivot Tables
 nav_order: 1
 ---
 
-## Why use pivot tables?
+# Why use pivot tables?
 
 Pivot tables are powerful because they are easy to use. It is used to sort and organize data so that you can draw meaning from the numbers in your dataset.
 
@@ -19,6 +19,8 @@ Pivot Tables make it easy to:
 * perform advanced calculations on numbers.
 
 Doing all of these things without a pivot table in Excel is possible, but it's much more time consuming, tedious, and requires more in-depth knowledge.
+
+---
 
 ## When would you use a pivot table?
 

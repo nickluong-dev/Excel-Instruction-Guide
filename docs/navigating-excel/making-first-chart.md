@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Making Your First Table and Chart
+title: Your First Table and Chart
 nav_order: 2
 parent: Navigating Excel
 ---
 
-## Creating a Table and Charts
+# Creating a Table and Charts
 
 There are many applications for Excel like accounting and finance. This instruction set will help you create your first table and charts.
 

@@ -5,7 +5,7 @@ parent: Pivot Tables
 nav_order: 3
 ---
 
-## Why use pivot tables?
+# Why use pivot tables?
 
 Pivot tables are powerful because they are easy to use. It is used to sort and organize data so that you can draw meaning from the numbers in your dataset.
 
