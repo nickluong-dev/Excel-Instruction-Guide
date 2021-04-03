@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pivot Tables
-parent: pivot-tables-intro
+parent: Pivot Tables
 ---
 # Pivot Tables
 {: .no_toc }
