@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Before You Start
+title: GUI Overview
 nav_order: 1
 parent: Navigating Excel
 ---
 
-# Before You Start - GUI
+# A brief overview of Excel's GUI
 
 Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and it's important buttons.
 

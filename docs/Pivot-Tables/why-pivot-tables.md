@@ -24,17 +24,17 @@ Doing all of these things without a pivot table in Excel is possible, but it's m
 
 ## When would you use a pivot table?
 
-But what are the practical uses for a pivot table? Consider this receipt from a pizza store:
+Here is a practical example. Consider this receipt from a pizza store:
 
-![Pizza Receipt](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pizza-Receipt.png?raw=true "Pizza Receipt")
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pizza-Receipt.png?raw=true" alt="Pizza Receipt" height="400px">
 
 A pizza store prints this receipt and logs the information. Hypothetically the owner could gather all of this data and perform some analysis on it. Let's tabularize some of this info:
 
-| Employee      | Date/Time         | Pizza     | Total |
-| ------------- |:------------------| :-------- | :---- |
-| John          | 2020/01/05 12:01PM| Pepperoni | $8.59 |
+| Employee      | Date/Time         | Pizza      | Total |
+| ------------- |:------------------| :--------- | :---- |
+| Melissa       | 2019/05/26 01:17PM| Margherita | $6.03 |
 
-Now imagine the owner populates a spreadsheet with hundreds or thousands of receipt data. What is some meaningful information we could gather?
+Now imagine the owner populates a spreadsheet with hundreds or thousands of sales. Now we can gather meaningful information from the data and answer some useful questions.
 
 * What is the most popular pizza?
 * Which employee sold the most pizzas?
@@ -42,4 +42,4 @@ Now imagine the owner populates a spreadsheet with hundreds or thousands of rece
 * What are hourly and daily sales?
 * What are the sale counts of each pizza?
 
-Now that you understand what kind of information we can gather, let's move on to [making your first pivot table and pivot chart.]()
+Now that you understand what kind of information we can gather, let's move on to making your first pivot table and pivot chart. Download our dataset [here.]()

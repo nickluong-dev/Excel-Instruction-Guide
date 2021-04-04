@@ -35,16 +35,16 @@ You can perform other actions like filtering your numbers using equations.
 
 ![Grocery-5](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Grocery-5.png?raw=true "Grocery-5")
 
-**6.** With the table highlighted, navigate to **Recommended Charts** button. Choose a graph of your choice.
+**6.** With the table highlighted, navigate to the **Recommended Charts** button. Choose a graph of your choice.
 
-Excel recommends the most common but you can choose whatever graph make sense to you beside the **Recommended Charts** button. For this example, we will use a pie chart.
+Excel recommends the most applicable chart, but you can choose whichever graph make sense to you. Besides the **Recommended Charts** button are smaller icons for the various graphs available. For this example, we will use a pie chart.
 
 ![Grocery-6](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Grocery-6.png?raw=true "Grocery-6")
 
-**7.** Click on your graph. Click on the **Chart Elements**  button, check **Data Values** and choose where you want it appear. By default, Excel does not show the data values.
+**7.** Click on your graph. Click on the **Chart Elements**  button, check **Data Values** and choose where you want it to appear. By default, Excel does not show the data values.
 
 ![Grocery-7](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Grocery-7.png?raw=true "Grocery-7")
 
-Now, you know how to populate and create simple table. You also know how to generate a chart from your data.
+Now, you know how to populate and create a simple table. You also know how to generate a chart from your data.
 
 Next, you will learn about [conditional formatting.]() 

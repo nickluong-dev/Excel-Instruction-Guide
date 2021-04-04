@@ -5,39 +5,28 @@ parent: Pivot Tables
 nav_order: 3
 ---
 
-# Why use pivot tables?
+# Your First Pivot Table
 
-Pivot tables are powerful because they are easy to use. It is used to sort and organize data so that you can draw meaning from the numbers in your dataset.
+Before you begin, make sure you are using the [sample student dataset]() to follow along.
 
-Pivot Tables make it easy to:
+**1.** Make sure at least one cell of the dataset is highlighted. Navigate to the **Insert** tab and click **PivotTable** on the top right. A prompt will appear for you to select a range for the table. Excel should autopopulate this section for you if you had one cell in teh dataset highlighted. Click **OK**.
 
-* sort data.
-* group data.
-* count occurences.
-* sum and average data.
-* transform rows into columns and columns into rows.
-* perform advanced calculations on numbers.
+**Note:** You can click on **Recommended PivotTables** if you want to quickly make something.
 
-Doing all of these things without a pivot table in Excel is possible, but it's much more time consuming, tedious, and requires more in-depth knowledge.
+![Pivot-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-1.png?raw=true "Pivot-1")
 
-## When would you use a pivot table?
+A new sheet has now been created on the bottom left. Navigate to that sheet as we will continue using it from now on.
 
-But what are the practical uses for a pivot table? Consider this receipt from a pizza store:
+**2.** Highlight one of the cells in within the new PivotTable workspace.
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pizza-Receipt.png?raw=true" alt="Pizza Receipt" height=400px>
+![Pivot-2-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-2-1.png?raw=true "Pivot-2-1")
 
-A pizza store prints this receipt and logs the information. Hypothetically the owner could gather all of this data and perform some analysis on it. Let's tabularize some of this info:
+A new window on the right side should now have appeared. This is where we will manipulate our data.
 
-| Employee      | Date/Time         | Pizza     | Total |
-| ------------- |:------------------| :-------- | :---- |
-| John          | 2020/01/05 12:01PM| Pepperoni | $8.59 |
+![Pivot-2-2](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-2-2.png?raw=true "Pivot-2-2")
 
-Now imagine the owner populates a spreadsheet with hundreds or thousands of receipt data. What is some meaningful information we could gather?
+**3.** In the **PivotTable Fields** section, drag the fields to the appropiate sections like the image below.
 
-* What is the most popular pizza?
-* Which employee sold the most pizzas?
-* What time window is the most popular for sales?
-* What are hourly and daily sales?
-* What are the sale counts of each pizza?
+**Note:** To remove a field, just drag it back out or press **CTRL+Z**.
 
-Now that you understand what kind of information we can gather, let's move on to [making your first pivot table and pivot chart.]()
+![Pivot-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-2-2.png?raw=true "Pivot-3")

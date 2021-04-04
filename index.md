@@ -28,12 +28,13 @@ This guide is targeted towards users with minima knowledge of Microsoft Excel. F
 
 The goal of this guide is to familiarize yourself with more advanced features such as Functions and Pivot Tables. When you have finished reading the guide, you will gain knowledge of:
 
+* Navigating Excel
 * Essential functions such as SUM
 * Formulas such as calculating values in a range of cells
-* Creating charts to help visualize data
 * Utilizing pivot tables to analyze worksheet data
 * Running macros to automate repetitive tasks
 * Filters to narrow down data in a worksheet
+* Index Match to look up values in a table of data and return a corresponding value
 
 ---
 
@@ -76,7 +77,7 @@ Not only can Excel be used to improve your quality of, knowledge of the software
 
 | Convention           | Typeface    | Example |
 |:---------------------|:------------|:----------|
-| (Clickable Options)  | **Bold** | Under the <Bold**>view</Bold**> tab, click on &**zoom** to... |
+| (Clickable Options)  | **Bold** | Under the **view** tab, click on &**zoom** to... |
 | Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
 ![Note icon]() Note: Indicates sections to take note of. <br>
