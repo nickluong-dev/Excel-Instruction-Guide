@@ -6,7 +6,7 @@ has_children: true
 ---
 # Conditional Formatting
 
-Conditional formatting in Excel allows you to apply formatting to selected cells based on their contents.
+Conditional formatting in Excel allows you to apply formatting to selected cells based on their contents. This will give you a quick method of adding a layer of visualization to your data.
 
 This section will teach you how to apply conditional formatting to your cells.
 In this example we will turn cells containing numbers within the range 30000-39999 red.
@@ -44,3 +44,5 @@ A pop-up window will appear.
 **8.** Your cells should now be formatted according to the conditions you entered.
 
 ![completed-example](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/conditional-formatting-8.png?raw=true "Example that is conditionally formatted")
+
+Now you know how to conditionally format your spreadsheet. Use this technique to quickly emphasize, highlight, and differentiate your data.

@@ -38,10 +38,17 @@ The goal of this guide is to familiarize yourself with more advanced features su
 
 ---
 
+## Why Learn Excel
+
+Excel does more than just organize your data for you. It can process it and form it into graphs, automating time-consuming and mundane tasks.
+
+Not only can Excel be used to improve your quality of life, knowledge of the software can be a valuable asset to employers. Excel is commonly used in the business and technology sectors for data analysis, calculations, and data visualization. Although it may seem daunting, this guide will walk you through its basic functionalities step by step.
+
+---
+
 ## Software Version
 
-Microsoft 365 Apps for enterprise Version 2102 on Windows 10.
-Previous versions may have minor differences.
+This guide uses Microsoft 365 Apps for enterprise Version 2102 on Windows 10. Previous versions may have minor differences.
 
 You can purchase and download Microsoft Excel [here](https://www.microsoft.com/en-ca/microsoft-365/excel).
 
@@ -59,17 +66,9 @@ Have the following ready before beginning the instructions in this document:
 
 ## Brief History
 
-Microsoft first developed Excel in 1987 as a response to Lotus 1-2-3 as the industry standard for spreadsheets to organize, analyze, and store data in tabular form.
+Microsoft first developed Excel in 1987 as a response to IBM's Lotus 1-2-3 spreadsheet software. Excel has since become the industry standard for spreadsheets to organize, analyze, and store data in tabular form.
 
-Since 1993, it has overtaken as the leading software to use, both continually expanding on existing features and adding more features from version to version. 
-
----
-
-## Why Learn Excel
-
-Excel does more than just organize your data for you. It can process it and form it into graphs, automating otherwise time-consuming and mundane tasks.
-
-Not only can Excel be used to improve your quality of, knowledge of the software can be a valuable asset to employers as it implies a level of technological finesse and analytical skill. Although it may seem daunting, this guide will walk you through its basic functionalities step by step. 
+Since 1993, it has overtaken as the leading software to use, both continually expanding on existing features and adding more features from version to version.
 
 ---
 
@@ -77,7 +76,7 @@ Not only can Excel be used to improve your quality of, knowledge of the software
 
 | Convention           | Typeface    | Example |
 |:---------------------|:------------|:----------|
-| Buttons              | **Bold**    | Under the **view** tab, click on &**zoom** to... |
+| Buttons              | **Bold**    | Under the **view** tab, click on **zoom** to... |
 | Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
 <img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: Indicates sections with extra information.*
