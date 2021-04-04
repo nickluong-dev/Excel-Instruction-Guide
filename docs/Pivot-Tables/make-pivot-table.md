@@ -9,11 +9,11 @@ nav_order: 3
 
 Before you begin, make sure you are using the [sample student dataset]() to follow along.
 
-**1.** Make sure at least one cell of the dataset is highlighted. Navigate to the **Insert** tab and click **PivotTable** on the top right. A prompt will appear for you to select a range for the table. Excel should autopopulate this section for you if you had one cell in teh dataset highlighted. Click **OK**.
-
-**Note:** You can click on **Recommended PivotTables** if you want to quickly make something.
+**1.** Make sure at least one cell of the dataset is highlighted. Navigate to the **Insert** tab and click **PivotTable** on the top left. A prompt will appear for you to select a range for the table. Excel should autopopulate this section for you if you had one cell in the dataset highlighted. Click **OK**.
 
 ![Pivot-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-1.png?raw=true "Pivot-1")
+
+**Note:** You can click on **Recommended PivotTables** if you want to quickly make something.
 
 A new sheet has now been created on the bottom left. Navigate to that sheet as we will continue using it from now on.
 
@@ -27,6 +27,19 @@ A new window on the right side should now have appeared. This is where we will m
 
 **3.** In the **PivotTable Fields** section, drag the fields to the appropiate sections like the image below.
 
+
+![Pivot-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-3.png?raw=true "Pivot-3")
+
 **Note:** To remove a field, just drag it back out or press **CTRL+Z**.
 
-![Pivot-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-2-2.png?raw=true "Pivot-3")
+Now we have a table that shows us the sum of the of ages by student Majors bucketed by their ages. But this isn't very useful is it?
+
+**4.** Click on **Sum of Ages** and select **Value Field Settings.**
+
+![Pivot-4](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-4.png?raw=true "Pivot-4")
+
+**5.** Select **Count** as we want to show the counts of students by age. But take a look at what other functions you can apply.
+
+![Pivot-5](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-5.png?raw=true "Pivot-5")
+
+**Note:** You can also change the value format (eg. dollars) by clicking **Number Format.**
