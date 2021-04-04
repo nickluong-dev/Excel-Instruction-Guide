@@ -80,5 +80,6 @@ Not only can Excel be used to improve your quality of, knowledge of the software
 | Buttons              | **Bold**    | Under the **view** tab, click on &**zoom** to... |
 | Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
-![Note icon]() Note: Indicates sections to take note of. <br>
-![Caution icon]() Caution: Indicates sections take care with.
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" height="40px" style="vertical-align:middle;"> ***Note**: Indicates sections with extra information.*
+
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" height="40px" style="vertical-align:middle;"> ***Warning**: Indicates sections to definitely pay attention to.*
