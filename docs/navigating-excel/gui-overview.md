@@ -7,7 +7,7 @@ parent: Navigating Excel
 
 # A brief overview of Excel's GUI
 
-Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and it's important buttons.
+Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and its important buttons.
 
 Here is Excel's toolbar. Currently we are in the <b> Home </b> tab. This is where can format our text and do some basic manipulation. 
 

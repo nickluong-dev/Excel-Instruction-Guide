@@ -33,4 +33,4 @@ INDEX MATCH has some advantages over VLOOKUP which include:
 
 **4.** At worst, INDEX MATCH is about as fast as VLOOKUP. However, there are many cases where it will retrieve data faster when dealing with large amounts of data.
 
-INDEX MATCH has a higher learning curve than VLOOKUP but the advantages are worth it. The next section will 
+INDEX MATCH has a higher learning curve than VLOOKUP but the advantages are worth it. The next sections will show you how to use INDEX and MATCH.
