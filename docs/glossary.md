@@ -14,3 +14,4 @@ nav_order: 6
 |**Format**|The appearance of a selection of text or a cell.|
 |**Function**|Predefined formulas that perform calculations in a specific order.|
 |**GUI**|Graphical User Interface. The layout of an application which a user interacts with.|
+|**Workbook**|Refers to the spreadsheet you are working on and any other associated sheets.|
