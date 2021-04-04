@@ -9,7 +9,7 @@ has_children: true
 Conditional formatting in Excel allows the user to apply formatting to selected cells based on their contents.
 
 This section will teach you how to apply conditional formatting to your cells.
-In this example we will turn cells containing within the range 11-39 red.
+In this example we will turn cells containing numbers within the range 30000-39999 red.
 
 **1.** Select the range of cells you will be working with by dragging your mouse across all desired cells.
 
