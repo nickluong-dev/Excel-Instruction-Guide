@@ -77,7 +77,7 @@ Not only can Excel be used to improve your quality of, knowledge of the software
 
 | Convention           | Typeface    | Example |
 |:---------------------|:------------|:----------|
-| (Clickable Options)  | **Bold** | Under the **view** tab, click on &**zoom** to... |
+| Buttons              | **Bold**    | Under the **view** tab, click on &**zoom** to... |
 | Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
 ![Note icon]() Note: Indicates sections to take note of. <br>
