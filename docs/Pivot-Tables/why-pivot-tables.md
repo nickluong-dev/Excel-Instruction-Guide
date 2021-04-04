@@ -42,4 +42,4 @@ Now imagine the owner populates a spreadsheet with hundreds or thousands of sale
 * What are hourly and daily sales?
 * What are the sale counts of each pizza?
 
-Now that you understand what kind of information we can gather, let's move on to making your first pivot table and pivot chart. Download our dataset [here.]()
+Now that you understand what kind of information we can gather, let's move on to making your first pivot table and pivot chart.
