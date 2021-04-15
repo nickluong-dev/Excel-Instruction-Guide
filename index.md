@@ -10,7 +10,7 @@ permalink: /
 
 Excel is a powerful spreadsheet software with graphing tools, pivot tables, macro programming, and built-in functions. Excel is commonly used for accounting, taxes, data visualization, dashboards, and basic calculations.
 
-This document is to help you get started with Microscoft Excel. The guide will walkthrough the basics but will also cover some advanced but practical tasks.
+This document is to help you get started with Microscoft Excel. The guide will walk through the basics and will also cover some advanced but practical tasks.
 
 ---
 
@@ -76,7 +76,8 @@ Since 1993, it has overtaken as the leading software to use, both continually ex
 
 | Convention           | Typeface    | Example |
 |:---------------------|:------------|:----------|
-| Buttons              | **Bold**    | Under the **view** tab, click on **zoom** to... |
+| Buttons              | **[Bold]**  | Under the **[view]** tab, click on **[zoom]** to... |
+| Key words            |  **Bold**   |  |
 | Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
 <img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: Indicates sections with extra information.*
