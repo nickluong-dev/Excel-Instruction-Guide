@@ -42,7 +42,7 @@ The second **MATCH** function will take in the following arguments: cell **H3** 
 
 <img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: Remember that the array must contain cells in the same row if you wish to return a column number.
 
-**5.** Press **Enter.** We have index matched **Frieda**'s **Major** to **Music.**
+**5.** Press **[Enter].** We have index matched **Frieda**'s **Major** to **Music.**
 
 The INDEX function now has three arguments: the array we want to retrieve a value from, a MATCH function that returns the row number **Frieda** is on, and a MATCH function that returns the column number **Major** is on.
 
