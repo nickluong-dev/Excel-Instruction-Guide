@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conditional Formatting
-nav_order: 3
+nav_order: 4
 ---
 # Conditional Formatting
 
@@ -9,6 +9,8 @@ Conditional formatting in Excel allows you to apply formatting to selected cells
 
 This section will teach you how to apply conditional formatting to your cells.
 In this example we will turn cells containing numbers within the range 30000-39999 red.
+
+Before you start these steps, have the [data set](https://drive.google.com/drive/folders/1MX3XusQiBKHx3X8Kf6P3lRY2Q1pZcjB9?usp=sharing) opened in Excel.
 
 **1.** Select the range of cells you will be working with by pressing **[CTRL+A]** on your keyboard.
 
