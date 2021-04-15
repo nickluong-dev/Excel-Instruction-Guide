@@ -56,7 +56,7 @@ Tada! The **[Developer]** tab is now added to your ribbon and you can record you
 
 <img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" style="vertical-align:middle;"> ***Warning**: Make sure the entire column except the **Program Tuition** header is highlighted or conditional formatting will not work!
 
-**8.** Click on **[Conditional Formatting]** under the **[Styles]** section of the ribbon. Hover over **[Highlight Cells Rules]** then click on **[Greater Than…]*.
+**8.** Click on **[Conditional Formatting]** under the **[Styles]** section of the ribbon. Hover over **[Highlight Cells Rules]** then click on **[Greater Than…]**.
 
 ![Macros-7](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-7.png?raw=true "Macros-7")
 
