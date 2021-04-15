@@ -7,13 +7,13 @@ nav_order: 2
 
 # What is INDEX MATCH?
 
-INDEX MATCH is a combination of two functions in EXCEL called INDEX and MATCH. Combined, these two formulas can look up and return the value of a cell
+**INDEX MATCH** is a combination of two functions in Excel called **INDEX** and **MATCH**. Combined, these two formulas can look up and return the value of a cell
 
-vertically and/or horizontally. Together, INDEX and MATCH are referred to as INDEX MATCH.
+vertically and/or horizontally. Together, **INDEX** and **MATCH** are referred to as **INDEX MATCH.**
 
 ## What is INDEX?
 
-INDEX is a formula that returns the value of a cell in a table based on the column and row number. The arguments passed into this function are:
+IND**EX is a formula that returns the value of a cell in a table based on the column and row number. The arguments passed into this function are:
 
 **1.** array: a range of cells or an array reference. The format will be "start:end" eg. "A1:F20"
 
