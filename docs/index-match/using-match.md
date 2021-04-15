@@ -22,7 +22,7 @@ Let's try using **MATCH** to return a row number.
 
 ![MATCH-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/match-1.png?raw=true "MATCH-1")
 
-**2.** Select cell **I2** and enter ```=MATCH``` into the [**formula bar**]. This will determine the row number **Ignacio** is on.
+**2.** Select cell **I2** and enter ```=MATCH``` into the **[formula bar]**. This will determine the row number **Ignacio** is on.
 
 ![MATCH-2](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/match-2.png?raw=true "MATCH-2")
 
@@ -30,7 +30,7 @@ Let's try using **MATCH** to return a row number.
 
 ![MATCH-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/match-3.png?raw=true "MATCH-3")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" style="vertical-align:middle;"> ***Warning**: The array passed into this **MATCH** function must contain only cells from the same column. The reason is that we are searching a single column for a matching value to return a row number.
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" align="left"> ***Warning**: The array passed into this **MATCH** function must contain only cells from the same column. The reason is that we are searching a single column for a matching value to return a row number.*
 
 
 **4.** Press **[Enter]** on your keyboard after writing the function. The number 17 will appear in cell **I2**. With our **MATCH** function, we searched the **Name** column for **Ignacio** and returned the matching row number.
@@ -49,7 +49,7 @@ Let's try finding a column number with **MATCH**.
 
 ![MATCH-6](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/match-6.png?raw=true "MATCH-6")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" style="vertical-align:middle;"> ***Warning**: The array passed into this **MATCH** function must contain only cells from the same row. The reason is that we are searching a single row for a matching value to return a column number.
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" align="left"> ***Warning**: The array passed into this **MATCH** function must contain only cells from the same row. The reason is that we are searching a single row for a matching value to return a column number.*
 
 **3.** Press **[Enter]** on your keyboard after writing the function. The number 3 will appear in cell **I3**. With our **MATCH** function, we searched the first or "Header" row for **Year** and returned the matching column number.
 

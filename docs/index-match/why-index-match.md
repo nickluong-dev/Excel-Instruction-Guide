@@ -31,6 +31,6 @@ There are ways around these limitations, but they involve the use of other funct
 
 * It can handle row/column numbers if you add/delete new rows/columns from the dataset.
 
-* At worst, INDEX MATCH is about as fast as VLOOKUP. However, there are many cases where it will retrieve data faster when dealing with large amounts of data.
+* At worst, **INDEX MATCH** is about as fast as **VLOOKUP**. However, there are many cases where it will retrieve data faster when dealing with large amounts of data.
 
-INDEX MATCH has a higher learning curve than VLOOKUP but the advantages are worth it. The next sections will show you how to use INDEX and MATCH.
+**INDEX MATCH** has a higher learning curve than *VLOOKUP but the advantages are worth it. The next sections will show you how to use **INDEX** and **MATCH**.

@@ -27,7 +27,7 @@ column number of **Major**.
 
 ![INDEXMATCH-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-match-3.png?raw=true "INDEXMATCH-3")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: You can also **Shift-Click** cells to instead of manually typing the cells portion.
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: You can also **Shift-Click** cells to instead of manually typing the cells portion.*
 
 **3.** Give the **INSERT** function the second argument, a **MATCH** function returning a row number.
 
@@ -41,7 +41,7 @@ The second **MATCH** function will take in the following arguments: cell **H3** 
 
 ![INDEXMATCH-5](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-match-5.png?raw=true "INDEXMATCH-5")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: Remember that the array must contain cells in the same row if you wish to return a column number.
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: Remember that the array must contain cells in the same row if you wish to return a column number.*
 
 **5.** Press **[Enter].** We have index matched **Frieda**'s **Major** to **Music.**
 

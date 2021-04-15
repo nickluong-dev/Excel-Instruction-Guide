@@ -44,7 +44,7 @@ Tada! The **[Developer]** tab is now added to your ribbon and you can record you
 
 ![Macros-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-3.png?raw=true "Macros-3")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: It is recommended that you name the macro something that clearly describes what it does. In this case, we have named ours Alphabetize_Name_Descending_Highlight_Tuition_Above_40k”. Setting a shortcut key allows you to use the macro later without going into the menu. Storing the macro in “This Workbook” will allow you to use the macro whenever this specific spreadsheet is open.*
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" align="left"> ***Note**: It is recommended that you name the macro something that clearly describes what it does. In this case, we have named ours Alphabetize_Name_Descending_Highlight_Tuition_Above_40k”. Setting a shortcut key allows you to use the macro later without going into the menu. Storing the macro in “This Workbook” will allow you to use the macro whenever this specific spreadsheet is open.*
 
 **5.** Click on the column you would like to order using your mouse (in this case, the **Name** column), then go to the **[Data]** tab. 
 
@@ -54,17 +54,17 @@ Tada! The **[Developer]** tab is now added to your ribbon and you can record you
 
 ![Macros-5](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-5.png?raw=true "Macros-5")
 
-**7.** Click on the column you would like to highlight cells fulfilling a certain criterion using your mouse (in this case, column **E** above **Program Tuition** column), then go to the **[Home]** tab. Hold **[CTRL]** and **[left click]** the header (**[Program Tuition]**) to deselect it from the conditional formatting.
+**7.** Click on the column you would like to highlight cells fulfilling a certain criterion using your mouse (in this case, column **E** above **Program Tuition** column), then go to the **[Home]** tab. Hold **[CTRL]** and **[left click]** the header (**Program Tuition**) to deselect it from the conditional formatting.
 
 ![Macros-6](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-6.png?raw=true "Macros-6")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" style="vertical-align:middle;"> ***Warning**: Make sure the entire column except the **Program Tuition** header is highlighted or conditional formatting will not work!
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" align="left"> ***Warning**: Make sure the entire column except the **Program Tuition** header is highlighted or conditional formatting will not work!*
 
 **8.** Click on **[Conditional Formatting]** under the **[Styles]** section of the ribbon. Hover over **[Highlight Cells Rules]** then click on **[Greater Than…]**.
 
 ![Macros-7](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-7.png?raw=true "Macros-7")
 
-**9.** Enter the value in which you would like to highlight then press **[OK]**,
+**9.** Enter the value in which you would like to highlight then press **[OK]**.
 
 ![Macros-8](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-8.png?raw=true "Macros-8")
 

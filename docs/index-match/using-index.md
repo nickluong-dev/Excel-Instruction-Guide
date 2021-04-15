@@ -25,7 +25,7 @@ Let's try out the **INDEX** function to grab **Awilda**'s age.
 
 ![INDEX-2](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-2.png?raw=true "INDEX-2")
 
-**3.** Type ```=INDEX``` in the formula bar, a dropdown autocomplete menu appears. This shows all functions that match what you are typing in. You can select the function you are typing to type with the up and down arrow keys. If you press tab, the formula bar will autofill with the selected function.
+**3.** Type ```=INDEX``` in the formula bar, a dropdown autocomplete menu appears. This shows all functions that match what you are typing in. You can select the function you are typing to type with the up and down arrow keys. If you press **tab**, the **[formula bar]** will autofill with the selected function.
 
 ![INDEX-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-3.png?raw=true "INDEX-3")
 
