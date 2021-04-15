@@ -29,7 +29,7 @@ Let's try out the INDEX function to grab **Awilda**'s age.
 
 ![INDEX-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-3.png?raw=true "INDEX-3")
 
-**4.** Pass three arguments to **INDEX**: The array **A1:F20** represents all cells from **A1** to **F20**, 10 
+**4.** Pass three arguments to **INDEX**: The array **A1:F20** represents all cells from **A1** to **F20**, **10** is **Awilda**'s row, and **2** is **Age**'s column.
 
 You can see how there is a blue outline around the cells we have selected and each selected cell is now blue. The second argument is the row number **Awilda** is in. The third argument is the column number **Age** is in.
 

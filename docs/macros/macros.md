@@ -16,7 +16,7 @@ It is also possible to combine any number of functions into a single macro, savi
 
 ## Pre-requisites
 
-Before moving forward, make sure you have the [data set](https://drive.google.com/drive/folders/1MX3XusQiBKHx3X8Kf6P3lRY2Q1pZcjB9?usp=sharing) provided from the Before You Start section. In the following examples, we will be recording a macro that orders the students in the Student Data.xlsx file by their name and highlighting any field where the tuition is over a certain threshold.
+Before moving forward, make sure you have the [data set](https://drive.google.com/drive/folders/1MX3XusQiBKHx3X8Kf6P3lRY2Q1pZcjB9?usp=sharing) provided here. In the following examples, we will be recording a macro that orders the students in the Student Data.xlsx file by their name and highlighting any field where the tuition is over a certain threshold.
 
 ## Instructions
 
