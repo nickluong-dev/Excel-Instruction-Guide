@@ -13,7 +13,7 @@ Before you begin, make sure you are using the [sample student dataset](https://d
 
 ![Pivot-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Pivot-1.png?raw=true "Pivot-1")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" height="40px" style="vertical-align:middle;"> ***Note**: You can click on **Recommended PivotTables** if you want to quickly make something.*
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: You can click on **Recommended PivotTables** if you want to quickly make something.*
 
 A new sheet has now been created on the bottom left. Navigate to that sheet as we will continue using it from now on.
 

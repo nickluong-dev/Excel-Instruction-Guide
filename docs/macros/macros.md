@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Macros
-nav_order: 5
+nav_order: 6
 ---
 # Macros
 
@@ -16,7 +16,7 @@ It is also possible to combine any number of functions into a single macro, savi
 
 ## Pre-requisites
 
-Before moving forward, make sure you have the data set provided from the Before You Start section. In the following examples, we will be recording a macro that orders the students in the Student Data.xlsx file by their name and highlighting any field where the tuition is over a certain threshold.
+Before moving forward, make sure you have the [data set](https://drive.google.com/drive/folders/1MX3XusQiBKHx3X8Kf6P3lRY2Q1pZcjB9?usp=sharing) provided from the Before You Start section. In the following examples, we will be recording a macro that orders the students in the Student Data.xlsx file by their name and highlighting any field where the tuition is over a certain threshold.
 
 ## Instructions
 
@@ -50,21 +50,21 @@ Tada! The **Developer** tab is now added to your ribbon and you can record your 
 
 ![Macros-5](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-5.png?raw=true "Macros-5")
 
-**7.** Click on the column you would like to highlight cells fulfilling a certain criterion using your mouse (in this case, the **E** above **Program Tuition** column), then go to the **Home** tab. Hold **CTRL** and **left click** the header (**Program Tuition**) to deselect it from the conditional formatting.
+**7.** Click on the column you would like to highlight cells fulfilling a certain criterion using your mouse (in this case, column **E** above **Program Tuition** column), then go to the **Home** tab. Hold **CTRL** and **left click** the header (**Program Tuition**) to deselect it from the conditional formatting.
 
 ![Macros-6](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-6.png?raw=true "Macros-6")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" style="vertical-align:middle;"> ***Warning**: Make sure the entire column is highlighted or conditional formatting will not work!
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/warning.png?raw=true" alt="warning" width="40px" height="40px" style="vertical-align:middle;"> ***Warning**: Make sure the entire column except the **Program Tuition** header is highlighted or conditional formatting will not work!
 
 **8.** Click on **Conditional Formatting** under the **Styles** section of the ribbon. Hover over **Highlight Cells Rules** then click on **Greater Than…*.
 
-![Macros-7](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-6.png?raw=true "Macros-7")
+![Macros-7](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-7.png?raw=true "Macros-7")
 
 **9.** Enter the value in which you would like to highlight then press **OK**,
 
 ![Macros-8](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-8.png?raw=true "Macros-8")
 
-**10.** Go back to the **Developer** tab and press **Stop Recording**. Your macro is now complete!
+**10.** Go back to the **Developer** tab and press **Stop Recording**. Your macro is now complete! Remember to save your work by pressing **CTRL+S** on your keyboard.
 
 ![Macros-9](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-9.png?raw=true "Macros-9")
 
@@ -74,10 +74,10 @@ Tada! The **Developer** tab is now added to your ribbon and you can record your 
 
 **12.** The macro you recorded is now there for use for this workbook! Highlight the macro you would like to use with your mouse, click **Run** and the macro will perform all the steps you recorded automatically.
 
-![Macros-11](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-10.png?raw=true "Macros-11")
+![Macros-11](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-11.png?raw=true "Macros-11")
 
 ---
 
-If you have been following the provided data set, this following image should be your result.
+If you have been following the provided data set, the following image should be your result.
 
 ![Macros-12](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-12.png?raw=true "Macros-12")

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Conditional Formatting
-nav_order: 10
-has_children: true
+nav_order: 3
 ---
 # Conditional Formatting
 

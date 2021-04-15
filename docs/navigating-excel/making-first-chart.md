@@ -19,7 +19,7 @@ Let's create a simple grocery list.
 
 ![Grocery-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Grocery-2.png?raw=true "Grocery-2")
 
-**3.** Now, calculate the total. Use the **SUM** function. Click on the cell, and type `=SUM()`. Highlight the costs by holding **Shift** on your keyboard and clicking cell **B2** then **B5**. Press **Enter** on your keyboard to get the sum! 
+**3.** Now, calculate the total. Use the **SUM** function. Click on the cell, and type `=SUM()`. Highlight the costs by holding **Shift** on your keyboard and clicking cell **B2** then **B5**. Press **Enter** on your keyboard to get the sum!
 
 You can do other things like calculate the average price by following this procedure.
 

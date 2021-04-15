@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 6
+nav_order: 7
 ---
 # Glossary
 
@@ -14,4 +14,5 @@ nav_order: 6
 |**Function**|Predefined formulas that perform calculations in a specific order.|
 |**GUI**|Graphical User Interface. The layout of an application which a user interacts with.|
 |**Row**|A number of objects (cells) arranged in a horizontal line from left to right.|
-|**Workbook**|Refers to the spreadsheet you are working on and any other associated sheets.|
+|**Spreadsheet**|A document consisting of data arranged in a collection of columns and rows|
+|**Workbook**|Refers to the spreadsheet you are working on and any other associated sheets with the Excel file.|
