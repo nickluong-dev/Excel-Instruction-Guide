@@ -77,7 +77,7 @@ Since 1993, it has overtaken as the leading software to use, both continually ex
 | Convention           | Typeface    | Example |
 |:---------------------|:------------|:----------|
 | Buttons              | **[Bold]**  | Under the **[view]** tab, click on **[zoom]** to... |
-| Key words            |  **Bold**   |  |
+| Key words            |  **Bold**   | Enter **Frieda** into cell H2... |
 | Spreadsheet formulas | ```Light``` | ```= A1 + B2``` |
 
 <img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: Indicates sections with extra information.*
