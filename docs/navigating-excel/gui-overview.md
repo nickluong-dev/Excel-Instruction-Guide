@@ -9,7 +9,7 @@ parent: Navigating Excel
 
 Before we jump into making our first table, chart, and start using functions, let us get familiar with the general layout of Excel and its important buttons.
 
-Here is Excel's toolbar. Currently we are in the <b> Home </b> tab. This is where can format our text and do some basic manipulation. 
+Here is Excel's toolbar. Currently we are in the [Home] tab. This is where can format our text and do some basic manipulation. 
 
 ![Toolbar](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Excel-Toolbar.png?raw=true "Excel Toolbar")
 
@@ -21,7 +21,7 @@ The **Cells** section allows you to add, delete, and format rows. For now, you w
 
 ![Cells](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Cells-Section.png?raw=true "Cells Section")
 
-Currently, we are working in one spreadsheet. The <b>Sheets</b> tab at the bottom allows you to add, delete, and rename any additional sheets you may need.
+Currently, we are working in one spreadsheet. The [Sheets] tab at the bottom allows you to add, delete, and rename any additional sheets you may need.
 
 ![Sheets](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Sheets.png?raw=true "Sheets")
 

@@ -25,7 +25,7 @@ INDEX is a formula that returns the value of a cell in a table based on the colu
 
 ## What is MATCH?
 
-MATCH is a formula that returns the position of a cell in a row or column. The arguments passed into this function are:
+**MATCH** is a formula that returns the position of a cell in a row or column. The arguments passed into this function are:
 
 **1.** lookup_value: the value to match in lookup_array.
 
@@ -35,6 +35,6 @@ MATCH is a formula that returns the position of a cell in a row or column. The a
 
 ## How do you combine INDEX and MATCH?
 
-To combine INDEX and MATCH, you pass the return values of two MATCH formulas into row_num and col_num. There will be a step-by-step guide, with visuals, showing you
+To combine **INDEX** and **MATCH**, you pass the return values of two **MATCH** formulas into row_num and col_num. There will be a step-by-step guide, with visuals, showing you
 
-how to use INDEX MATCH in a later section.
+how to use **INDEX MATCH** in a later section.

@@ -24,11 +24,15 @@ Before moving forward, make sure you have the [data set](https://drive.google.co
 
 You should now have your spreadsheet open.
 
+
 **2.** Click on the **[File]** tab at the top left of your window. From there, go to **[Options] > [Customize Ribbon]**.
+
+
 
 ![Macros-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-1.png?raw=true "Macros-1")
 
 The above menu should appear.
+
 
 **3.** Enable the **[Developer]** option under **[Main Tabs]**. Press **[OK]**. 
 
@@ -40,7 +44,7 @@ Tada! The **[Developer]** tab is now added to your ribbon and you can record you
 
 ![Macros-3](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/Macros-3.png?raw=true "Macros-3")
 
-<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: It is recommended that you name the macro something that clearly describes what it does. In this case, we have named ours “Alphabetize_Name_Descending_Highlight_Tuition_Above_40k”. Setting a shortcut key allows you to use the macro later without going into the menu. Storing the macro in “This Workbook” will allow you to use the macro whenever this specific spreadsheet is open.
+<img src="https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/note.png?raw=true" alt="note" width="40px" height="40px" style="vertical-align:middle;"> ***Note**: It is recommended that you name the macro something that clearly describes what it does. In this case, we have named ours Alphabetize_Name_Descending_Highlight_Tuition_Above_40k”. Setting a shortcut key allows you to use the macro later without going into the menu. Storing the macro in “This Workbook” will allow you to use the macro whenever this specific spreadsheet is open.*
 
 **5.** Click on the column you would like to order using your mouse (in this case, the **Name** column), then go to the **[Data]** tab. 
 

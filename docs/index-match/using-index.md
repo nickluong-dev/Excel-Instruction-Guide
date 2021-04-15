@@ -15,7 +15,7 @@ The image below is the section of the table we will be focusing on.
 
 ## Using INDEX
 
-Let's try out the INDEX function to grab **Awilda**'s age.
+Let's try out the **INDEX** function to grab **Awilda**'s age.
 
 **1.** Select the cell you want the return value of **INDEX** to appear in. In this example, cell **H2** will be used.
 

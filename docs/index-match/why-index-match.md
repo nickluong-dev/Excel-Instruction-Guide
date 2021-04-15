@@ -7,11 +7,11 @@ nav_order: 2
 
 # Why should I use INDEX MATCH?
 
-Many Excel professionals use INDEX MATCH due to multiple advantages it has over a similar function called VLOOKUP.
+Many Excel professionals use **INDEX MATCH** due to multiple advantages it has over a similar function called **VLOOKUP**.
 
 ## Limitations of VLOOKUP
 
-There is an Excel function called VLOOKUP that also allows you to look up data in a table. However, it has a few limitations:
+There is an Excel function called **VLOOKUP** that also allows you to look up data in a table. However, it has a few limitations:
 
 * It can only be used with data that is arranged vertically.
 
@@ -19,11 +19,11 @@ There is an Excel function called VLOOKUP that also allows you to look up data i
 
 * It would give you a wrong result if you add/delete a new column in your data.
 
-There are ways around these limitations, but they involve the use of other functions. If you are planning to combine functions, why not use INDEX and MATCH?
+There are ways around these limitations, but they involve the use of other functions. If you are planning to combine functions, why not use **INDEX** and **MATCH**?
 
 ## Advantages of INDEX MATCH
 
-INDEX MATCH has some advantages over VLOOKUP which include:
+**INDEX MATCH** has some advantages over **VLOOKUP** which include:
 
 * It can handle data that is arranged vertically and/or horizontally.
 

@@ -14,11 +14,13 @@ In this example we will turn cells containing numbers within the range 30000-399
 
 ![Example-Cells](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/conditional-formatting-2.png?raw=true "Example cells")
 
+
 **2.** Click the **[Home]** tab, then click **[Conditional Formatting]**. A drop-down menu will appear.
 
 ![Conditional-Formatting](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/conditional-formatting-1.PNG?raw=true "Conditional formatting button")
 
 **3.** Hover over Highlight Cells Rules, and click **[Between…]** in the resulting drop-down menu.
+
 
 ![Between](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/conditional-formatting-3.PNG?raw=true "Between button")
 
