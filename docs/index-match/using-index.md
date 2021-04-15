@@ -21,7 +21,7 @@ Let's try out the INDEX function to grab **Awilda**'s age.
 
 ![INDEX-1](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-1.png?raw=true "INDEX-1")
 
-**2.** Select an empty cell then click on the **Formula Bar**. Anything typed into this bar will appear in the selected cell. This will make it easier to type in formulas that are much longer than a selected cell.
+**2.** Select an empty cell then click on the **[Formula Bar]**. Anything typed into this bar will appear in the selected cell. This will make it easier to type in formulas that are much longer than a selected cell.
 
 ![INDEX-2](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-2.png?raw=true "INDEX-2")
 
@@ -35,7 +35,7 @@ You can see how there is a blue outline around the cells we have selected and ea
 
 ![INDEX-4](https://github.com/nickluong-dev/Excel-Instruction-Guide/blob/gh-pages/assets/images/index-4.png?raw=true "INDEX-4")
 
-**5.** Press **Enter** after entering your function. The number 23 will appear in cell **H2**.
+**5.** Press **[Enter]** after entering your function. The number 23 will appear in cell **H2**.
 
 With our INDEX function, we selected **Awilda**'s row and the **Age** column. The intersection of the selected row and column is a cell containing the number **23**.
 
